@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone. My name is Akshat Sharma. I am currently a CSE student with interests in Cyber Security. Here are some of my projects. Hope you like them.
 
 <!--
 **Akshat0521/Akshat0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
